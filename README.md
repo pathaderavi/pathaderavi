@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="300">
 
-####I am an iOS Systems Engineer at Buncee LLC
+#### I am an iOS Systems Engineer at Buncee LLC
 <br/>
 
 - 🔭 I’m currently working on a Music app for iOS and watchOS
@@ -21,7 +21,7 @@
 [![GitHub pathaderavi](https://img.shields.io/github/followers/pathaderavi?label=follow&style=social)](https://github.com/pathaderavi)
 
 <br/>
-#<div align='center'>🧑🏽‍💻☕🍲🛌</div><br/>
+# <div align='center'>🧑🏽‍💻☕🍲🛌</div><br/>
 <br/>
 
 

@@ -1,27 +1,14 @@
-
-
-<style> 
-@font-face {
-  font-family: menloFont;
-  src: url(https://github.com/hbin/top-programming-fonts/raw/master/Menlo-Regular.ttf);
-}
-
-div {
-  font-family: menloFont;
-}
-</style>
-
-#<div>Hi, I'm Ravikiran Pathade</div>
+#Hi, I'm Ravikiran Pathade
 
 <img align='right' src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="300">
 
-####<div style="font-family:Menlo">I am an iOS Systems Engineer at Buncee LLC</div>
+####I am an iOS Systems Engineer at Buncee LLC
 
-- <div style="font-family:Menlo">🔭 I’m currently working on a Music app for iOS and watchOS</div>
-- <div style="font-family:Menlo">🌱 I’m currently learning Vapor</div>
-- <div style="font-family:Menlo">💬 Ask me about anything, I will be glad to help</div>
-- <div style="font-family:Menlo">📫 How to reach me: Connect with me on LiknedIn</div>
-- <div style="font-family:Menlo">😄 Pronouns: He/Him</div>
+- 🔭 I’m currently working on a Music app for iOS and watchOS
+- 🌱 I’m currently learning Vapor
+- 💬 Ask me about anything, I will be glad to help
+- 📫 How to reach me: Connect with me on LiknedIn
+- 😄 Pronouns: He/Him
 <br/>
 <br/>
 
@@ -31,7 +18,7 @@ div {
 
 #<div align='center'>🧑🏽‍💻☕🍲🛌</div>
 
-### <div style="font-family:Menlo">That's how Swift would describe me</div>
+###That's how Swift would describe me
 
 ```swift
 class Ravikiran : Pathade {

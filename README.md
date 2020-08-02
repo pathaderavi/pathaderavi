@@ -1,4 +1,17 @@
-#<div style="font-family:Menlo">Hi, I'm Ravikiran Pathade</div>
+
+
+<style> 
+@font-face {
+  font-family: menloFont;
+  src: url(https://github.com/hbin/top-programming-fonts/raw/master/Menlo-Regular.ttf);
+}
+
+div {
+  font-family: menloFont;
+}
+</style>
+
+#<div>Hi, I'm Ravikiran Pathade</div>
 
 <img align='right' src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="300">
 
@@ -15,6 +28,7 @@
 [![Twitter: pathaderavi](https://img.shields.io/twitter/follow/pathaderavi?style=social)](https://twitter.com/pathaderavi)
 [![Linkedin: ravikiranpathade](https://img.shields.io/badge/-ravikiranpathade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravikiranpathade/)](https://www.linkedin.com/in/ravikiranpathade/)
 [![GitHub pathaderavi](https://img.shields.io/github/followers/pathaderavi?label=follow&style=social)](https://github.com/pathaderavi)
+
 #<div align='center'>🧑🏽‍💻☕🍲🛌</div>
 
 ### <div style="font-family:Menlo">That's how Swift would describe me</div>

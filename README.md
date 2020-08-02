@@ -1,8 +1,9 @@
 # Hi, I'm Ravikiran Pathade
 
-<img align='right' src="images/me.JPG" width="150">
-I am iOS Systems Engineer at Buncee LLC
+<img align='right' src="https://user-images.githubusercontent.com/19513557/89115657-e86eaf80-d458-11ea-901b-bb584a0ec8aa.JPG" width="150">
 
+I am iOS Systems Engineer at Buncee LLC
+<br/><br/>
 
 
 [![Twitter: pathaderavi](https://img.shields.io/twitter/follow/pathaderavi?style=social)](https://twitter.com/pathaderavi)

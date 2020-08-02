@@ -2,13 +2,17 @@
 
 <img align='right' src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="300">
 
+
 ####I am an iOS Systems Engineer at Buncee LLC
+
 
 - 🔭 I’m currently working on a Music app for iOS and watchOS
 - 🌱 I’m currently learning Vapor
 - 💬 Ask me about anything, I will be glad to help
 - 📫 How to reach me: Connect with me on LiknedIn
 - 😄 Pronouns: He/Him
+
+<br/>
 <br/>
 
 [![Twitter: pathaderavi](https://img.shields.io/twitter/follow/pathaderavi?style=social)](https://twitter.com/pathaderavi)

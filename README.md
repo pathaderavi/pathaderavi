@@ -9,7 +9,7 @@
 <br/>
 
 - 🔭 I’m currently working on a Music app for iOS and watchOS
-- 🌱 I’m currently learning Vapor
+- 🌱 I’ve currently started learning Vapor
 - 💬 Ask me about anything, I will be glad to help
 - 📫 How to reach me: Connect with me on LiknedIn
 - 😄 Pronouns: He/Him
@@ -60,17 +60,17 @@ class Ravikiran : Pathade {
     ]
     
     func think() {
-        guard isSleeping else { return }
+        guard !isSleeping else { return }
         
         think()
     }
     
     func sleep(){
-        isSleeping = false
+        isSleeping = true
     }
     
     func wakeUp() {
-        isSleeping = true
+        isSleeping = false
     }
     
 }

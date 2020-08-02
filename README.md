@@ -20,10 +20,10 @@
 [![Linkedin: ravikiranpathade](https://img.shields.io/badge/-ravikiranpathade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravikiranpathade/)](https://www.linkedin.com/in/ravikiranpathade/)
 [![GitHub pathaderavi](https://img.shields.io/github/followers/pathaderavi?label=follow&style=social)](https://github.com/pathaderavi)
 
-<br/>
-# 🧑🏽‍💻☕🍲🛌
-</br>
-<br/>
+
+<div align='center'>🧑🏽‍💻☕🍲🛌</div>
+
+
 
 
 ### That's how Swift would describe me 

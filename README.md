@@ -10,7 +10,6 @@
 - 📫 How to reach me: Connect with me on LiknedIn
 - 😄 Pronouns: He/Him
 <br/>
-<br/>
 
 [![Twitter: pathaderavi](https://img.shields.io/twitter/follow/pathaderavi?style=social)](https://twitter.com/pathaderavi)
 [![Linkedin: ravikiranpathade](https://img.shields.io/badge/-ravikiranpathade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravikiranpathade/)](https://www.linkedin.com/in/ravikiranpathade/)
@@ -69,19 +68,3 @@ class Ravikiran : Pathade {
 }
 
 ```
-
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->

@@ -1,10 +1,12 @@
-#Hi, I'm Ravikiran Pathade
+# Hi, I'm Ravikiran Pathade
+<div>
+
+</div>
 
 <img align='right' src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="300">
 
-
 ####I am an iOS Systems Engineer at Buncee LLC
-
+<br/>
 
 - 🔭 I’m currently working on a Music app for iOS and watchOS
 - 🌱 I’m currently learning Vapor
@@ -12,16 +14,18 @@
 - 📫 How to reach me: Connect with me on LiknedIn
 - 😄 Pronouns: He/Him
 
-<br/>
-<br/>
+
 
 [![Twitter: pathaderavi](https://img.shields.io/twitter/follow/pathaderavi?style=social)](https://twitter.com/pathaderavi)
 [![Linkedin: ravikiranpathade](https://img.shields.io/badge/-ravikiranpathade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravikiranpathade/)](https://www.linkedin.com/in/ravikiranpathade/)
 [![GitHub pathaderavi](https://img.shields.io/github/followers/pathaderavi?label=follow&style=social)](https://github.com/pathaderavi)
 
-#<div align='center'>🧑🏽‍💻☕🍲🛌</div>
+<br/>
+#<div align='center'>🧑🏽‍💻☕🍲🛌</div><br/>
+<br/>
 
-###That's how Swift would describe me
+
+### That's how Swift would describe me 
 
 ```swift
 class Ravikiran : Pathade {
@@ -33,7 +37,6 @@ class Ravikiran : Pathade {
     private init() {
         isSleeping = false
     }
-    
     var isSleeping : Bool = true
     
     let knownProgrammingLanguages = ["Swift", "Objective-C", "JavaScript", "Python", "Java"]
@@ -56,7 +59,7 @@ class Ravikiran : Pathade {
     ]
     
     func think() {
-        guard !isSleeping else { return }
+        guard isSleeping else { return }
         
         think()
     }
@@ -70,5 +73,21 @@ class Ravikiran : Pathade {
     }
     
 }
-
 ```
+
+
+<!--
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->

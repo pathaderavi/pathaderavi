@@ -1,24 +1,23 @@
-# Hi, I'm Ravikiran Pathade
-<div>
+#<div style="font-family:Menlo">Hi, I'm Ravikiran Pathade</div>
 
-</div>
+<img align='right' src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="300">
 
-<img align='right' src="https://user-images.githubusercontent.com/19513557/89115657-e86eaf80-d458-11ea-901b-bb584a0ec8aa.JPG" width="150">
+####<div style="font-family:Menlo">I am an iOS Systems Engineer at Buncee LLC</div>
 
-I am an iOS Systems Engineer at Buncee LLC
-<br/><br/>
-
+- <div style="font-family:Menlo">🔭 I’m currently working on a Music app for iOS and watchOS</div>
+- <div style="font-family:Menlo">🌱 I’m currently learning Vapor</div>
+- <div style="font-family:Menlo">💬 Ask me about anything, I will be glad to help</div>
+- <div style="font-family:Menlo">📫 How to reach me: Connect with me on LiknedIn</div>
+- <div style="font-family:Menlo">😄 Pronouns: He/Him</div>
+<br/>
+<br/>
 
 [![Twitter: pathaderavi](https://img.shields.io/twitter/follow/pathaderavi?style=social)](https://twitter.com/pathaderavi)
 [![Linkedin: ravikiranpathade](https://img.shields.io/badge/-ravikiranpathade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravikiranpathade/)](https://www.linkedin.com/in/ravikiranpathade/)
 [![GitHub pathaderavi](https://img.shields.io/github/followers/pathaderavi?label=follow&style=social)](https://github.com/pathaderavi)
+#<div align='center'>🧑🏽‍💻☕🍲🛌</div>
 
-<br/>
-🧑🏽‍💻☕🍲🛌<br/>
-<br/>
-
-
-### That's how Swift would describe me 
+### <div style="font-family:Menlo">That's how Swift would describe me</div>
 
 ```swift
 class Ravikiran : Pathade {
@@ -30,6 +29,7 @@ class Ravikiran : Pathade {
     private init() {
         isSleeping = false
     }
+    
     var isSleeping : Bool = true
     
     let knownProgrammingLanguages = ["Swift", "Objective-C", "JavaScript", "Python", "Java"]
@@ -52,7 +52,7 @@ class Ravikiran : Pathade {
     ]
     
     func think() {
-        guard isSleeping else { return }
+        guard !isSleeping else { return }
         
         think()
     }
@@ -66,8 +66,8 @@ class Ravikiran : Pathade {
     }
     
 }
-```
 
+```
 
 <!--
 

@@ -21,7 +21,8 @@
 [![GitHub pathaderavi](https://img.shields.io/github/followers/pathaderavi?label=follow&style=social)](https://github.com/pathaderavi)
 
 <br/>
-# <div align='center'>🧑🏽‍💻☕🍲🛌</div><br/>
+#<div align='center'>🧑🏽‍💻☕🍲🛌</div>
+</br>
 <br/>
 
 

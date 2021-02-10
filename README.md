@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on a Music app for iOS and watchOS
 - 🌱 I’ve currently started learning Vapor
 - 💬 Ask me about anything, I will be glad to help
-- 📫 How to reach me: Connect with me on LiknedIn
+- 📫 How to reach me: Connect with me on LinkedIn
 - 😄 Pronouns: He/Him
 
 

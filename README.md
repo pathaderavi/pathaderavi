@@ -48,7 +48,7 @@ class Ravikiran : Pathade {
     
     let knownTools = ["Xcode","Travis","CircleCI","Fastlane", "Git"]
     
-    let goalFor2020 = "To contribute lot more to open source community"
+    let goalFor2021 = "To contribute lot more to open source community"
     
     var thingsILoveToDo = [
         "Photography",

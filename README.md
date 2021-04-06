@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="300">
 
-#### I am an iOS Systems Engineer at Buncee LLC
+#### I am an iOS Software Engineer at WeWork
 <br/>
 
 - 🔭 I’m currently working on a Music app for iOS and watchOS

@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="300">
 
-#### I am an iOS Software Engineer at WeWork
+#### I am an iOS Software Engineer at Tinder
 <br/>
 
 - 🔭 I’m currently working on a Music app for iOS and watchOS
@@ -48,7 +48,7 @@ class Ravikiran : Pathade {
     
     let knownTools = ["Xcode","Travis","CircleCI","Fastlane", "Git"]
     
-    let goalFor2021 = "To contribute lot more to open source community"
+    let goalForThisYear = "To contribute lot more to open source community"
     
     var thingsILoveToDo = [
         "Photography",

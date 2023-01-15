@@ -44,7 +44,7 @@ class Ravikiran : Pathade {
     
     let knownFrameworks = ["UIKit","AVFoundation","CoreML","ARKit"]
     
-    let knowniOSLibraries = ["Alamofire", "SwiftyJSON", "RxSwift"]
+    let knowniOSLibraries = ["Lottie", "Alamofire", "SnapKit", "Hero"]
     
     let knownTools = ["Xcode","Travis","CircleCI","Fastlane", "Git"]
     

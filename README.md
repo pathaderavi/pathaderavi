@@ -40,15 +40,15 @@ class Ravikiran : Pathade {
     }
     var isSleeping : Bool = true
     
-    let knownProgrammingLanguages = ["Swift", "Objective-C", "JavaScript", "Python", "Java"]
+    var knownProgrammingLanguages = ["Swift", "Objective-C", "JavaScript", "Python", "Java"]
     
-    let knownFrameworks = ["UIKit","AVFoundation","CoreML","ARKit"]
+    var knownFrameworks = ["UIKit","AVFoundation","CoreML","ARKit"]
     
-    let knowniOSLibraries = ["Lottie", "Alamofire", "SnapKit", "Hero"]
+    var knowniOSLibraries = ["Lottie", "Alamofire", "SnapKit", "Hero"]
     
-    let knownTools = ["Xcode","Travis","CircleCI","Fastlane", "Git"]
+    var knownTools = ["Xcode","Travis","CircleCI","Fastlane", "Git"]
     
-    let goalForThisYear = "To contribute lot more to open source community"
+    var goalForThisYear = "To contribute lot more to open source community"
     
     var thingsILoveToDo = [
         "Photography",

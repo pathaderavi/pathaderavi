@@ -6,6 +6,7 @@
 <img align='right' src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="300">
 
 #### I am an iOS Software Engineer at Tinder
+##### You can also checkout my [Archived GitHub Profile](https://www.github.com/pathaderavi-zz)
 <br/>
 
 - 🔭 I’m currently working on a Music app for iOS and watchOS
@@ -15,10 +16,10 @@
 - 😄 Pronouns: He/Him
 
 
-
 [![Twitter: pathaderavi](https://img.shields.io/twitter/follow/pathaderavi?style=social)](https://twitter.com/pathaderavi)
 [![Linkedin: ravikiranpathade](https://img.shields.io/badge/-ravikiranpathade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravikiranpathade/)](https://www.linkedin.com/in/ravikiranpathade/)
 [![GitHub pathaderavi](https://img.shields.io/github/followers/pathaderavi?label=follow&style=social)](https://github.com/pathaderavi)
+
 
 
 # <div align='center'>🧑🏽‍💻☕🍲🛌</div>

@@ -93,3 +93,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+______________
+
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pathaderavi)](https://git.io/streak-stats)
+[![GitHub Streak - Archived Profile](http://github-readme-streak-stats.herokuapp.com?user=pathaderavi-zz)](https://git.io/streak-stats)
+<!--
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathaderavi&count_private=true" alt="ravi-pathade" /></p>
+-->

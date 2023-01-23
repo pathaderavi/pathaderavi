@@ -97,6 +97,9 @@ ______________
 
     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pathaderavi)](https://git.io/streak-stats)
+
+[Archived GitHub Profile](https://www.github.com/pathaderavi-zz)
+
 [![GitHub Streak - Archived Profile](http://github-readme-streak-stats.herokuapp.com?user=pathaderavi-zz)](https://git.io/streak-stats)
 <!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathaderavi&count_private=true" alt="ravi-pathade" /></p>

@@ -9,6 +9,8 @@
 ##### You can also checkout my [Archived GitHub Profile](https://www.github.com/pathaderavi-zz)
 <br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pathaderavi-zz)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on a Music app for iOS and watchOS
 - 🌱 I’ve currently started learning Vapor
 - 💬 Ask me about anything, I will be glad to help

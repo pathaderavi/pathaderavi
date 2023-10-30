@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="300">
 
-#### I am an iOS Software Engineer at Tinder
+#### I am an iOS Software Engineer
 ##### You can also checkout my [Archived GitHub Profile](https://www.github.com/pathaderavi-zz)
 <br/>
 

@@ -14,8 +14,6 @@
 - 📫 How to reach me: Connect with me on LinkedIn
 - 😄 Pronouns: He/Him
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pathaderavi-zz&theme=gitdimmed&title=Commits,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Twitter: pathaderavi](https://img.shields.io/twitter/follow/pathaderavi?style=social)](https://twitter.com/pathaderavi)
 [![Linkedin: ravikiranpathade](https://img.shields.io/badge/-ravikiranpathade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravikiranpathade/)](https://www.linkedin.com/in/ravikiranpathade/)
 [![GitHub pathaderavi](https://img.shields.io/github/followers/pathaderavi?label=follow&style=social)](https://github.com/pathaderavi)

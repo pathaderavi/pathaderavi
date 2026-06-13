@@ -9,9 +9,8 @@
 ##### You can also checkout my [Archived GitHub Profile](https://www.github.com/pathaderavi-zz)
 <br/>
 
-- 🔭 I’m currently working on a Music app for iOS and watchOS
-- 🌱 I’ve currently started learning Vapor
-- 💬 Ask me about anything, I will be glad to help
+- 🔭 Expert with all Apple Platforms, exploring Full Stack and Agentic projects
+- 🌱 Currently learning Rust
 - 📫 How to reach me: Connect with me on LinkedIn
 - 😄 Pronouns: He/Him
 
@@ -42,15 +41,18 @@ class Ravikiran : Pathade {
     }
     var isSleeping : Bool = true
     
-    var knownProgrammingLanguages = ["Swift", "Objective-C", "JavaScript", "Python", "Java"]
+    var knownProgrammingLanguages = ["Swift", "Objective-C", "TypeScript", "Python", "Java"]
     
-    var knownFrameworks = ["UIKit","AVFoundation","CoreML","ARKit"]
+    var knownFrameworks = ["UIKit","AVFoundation","CoreML","ARKit", "MLX"]
     
     var knowniOSLibraries = ["Lottie", "Alamofire", "SnapKit", "Hero"]
     
     var knownTools = ["Xcode","Travis","CircleCI","Fastlane", "Git"]
     
-    var goalForThisYear = "To contribute lot more to open source community"
+    var goalsForThisYear = [
+                            "1. To contribute lot more to open source community",
+                            "2. Learn more about Agents and Machine Learning"
+                           ]
     
     var thingsILoveToDo = [
         "Photography",
@@ -77,23 +79,6 @@ class Ravikiran : Pathade {
     
 }
 ```
-
-
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 ______________
 
     

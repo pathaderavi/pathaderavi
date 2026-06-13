@@ -61,13 +61,13 @@ class Ravikiran : Pathade {
         "Going for a walk"
     ]
     
-    func think() {
+    private func think() {
         guard !isSleeping else { return }
         
         think()
     }
     
-    func sleep(){
+    private func sleep(){
         isSleeping = true
     }
     

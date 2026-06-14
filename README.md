@@ -46,6 +46,8 @@ class Ravikiran : Pathade {
     var knowniOSLibraries = ["Lottie", "Alamofire", "SnapKit", "Hero"]
     
     var knownTools = ["Xcode","Travis","CircleCI","Fastlane", "Git"]
+
+    var website: URL? = URL(string: "https://www.ravikiran.io")
     
     var goalsForThisYear = [
                             "1. To contribute lot more to open source community",

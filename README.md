@@ -37,24 +37,24 @@ class Ravikiran : Pathade {
     private init() {
         isSleeping = false
     }
-    var isSleeping : Bool = true
+    private(set) var isSleeping : Bool = true
     
-    var knownProgrammingLanguages = ["Swift", "Objective-C", "TypeScript", "Python", "Java"]
+    private(set) var knownProgrammingLanguages = ["Swift", "Objective-C", "TypeScript", "Python", "Java"]
     
-    var knownFrameworks = ["UIKit","AVFoundation","CoreML","ARKit", "MLX"]
+    private(set) var knownFrameworks = ["UIKit","AVFoundation","CoreML","ARKit", "MLX"]
     
-    var knowniOSLibraries = ["Lottie", "Alamofire", "SnapKit", "Hero"]
+    private(set) var knowniOSLibraries = ["Lottie", "Alamofire", "SnapKit", "Hero"]
     
-    var knownTools = ["Xcode","Travis","CircleCI","Fastlane", "Git"]
+    private(set) var knownTools = ["Xcode","Travis","CircleCI","Fastlane", "Git"]
 
-    var website: URL? = URL(string: "https://www.ravikiran.io")
+    private(set) var website: URL? = URL(string: "https://www.ravikiran.io")
     
-    var goalsForThisYear = [
+    private(set) var goalsForThisYear = [
                             "1. To contribute lot more to open source community",
                             "2. Learn more about Agents and Machine Learning"
                            ]
     
-    var thingsILoveToDo = [
+    private(set) var thingsILoveToDo = [
         "Photography",
         "Read Books",
         "Watch Comedy Movies",
